@@ -3,7 +3,7 @@
   "version": "0.5.1",
   "main": "help-directive.js",
   "dependencies": {
-    "angular": "~1.7.9",
+    "angular": "~1.8.0",
     "angular-animate": "~1.7.9",
     "angular-foundation-6": "drugis/angular-foundation-6#master",
     "font-awesome": "~4.3.0"
